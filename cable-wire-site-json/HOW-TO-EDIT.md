@@ -1,1 +1,0 @@
-Edit text in src/content/*.json. Upload images to public/uploads/ and reference like /uploads/hero.jpg. Commit changes on GitHub; Vercel auto-updates.

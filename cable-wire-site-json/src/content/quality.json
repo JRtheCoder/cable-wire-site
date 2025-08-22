@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "title": "ISO 9001:20XX",
+      "subtitle": "Certification",
+      "desc": "Replace with your certificate # and link."
+    },
+    {
+      "title": "Continuity & Hi‑Pot",
+      "subtitle": "Testing",
+      "desc": "Documented procedures per lot."
+    },
+    {
+      "title": "UL‑recognized",
+      "subtitle": "Materials",
+      "desc": "PVC, XLPE, TPE, FEP, PUR selections."
+    },
+    {
+      "title": "Lot‑level COA",
+      "subtitle": "Traceability",
+      "desc": "Maintain serials and batch IDs."
+    }
+  ],
+  "features": [
+    "ISO 9001 procedures & traceability",
+    "UL/CSA listings where applicable",
+    "RoHS & REACH documentation",
+    "100% electrical test on assemblies"
+  ]
+}

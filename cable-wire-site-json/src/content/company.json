@@ -1,0 +1,16 @@
+{
+  "name": "Cable & Wire Co.",
+  "address": "123 Industrial Way, Unit A, Anytown, USA",
+  "phone": "(555) 123‑4567",
+  "email": "sales@cablewireco.com",
+  "hours": "Mon–Fri: 8:00a – 5:00p ET",
+  "tagline": "Reliable Cable & Wire for Demanding Applications",
+  "heroAccent": "Demanding",
+  "heroSub": "We stock and build industrial cable, wire, and custom assemblies with short lead times. Certified quality, technical support, and on‑time delivery.",
+  "badges": [
+    "In‑stock options",
+    "ISO 9001 procedures",
+    "ROHS/REACH compliant"
+  ],
+  "heroImage": ""
+}

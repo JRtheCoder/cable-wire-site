@@ -1,0 +1,1 @@
+# Cable & Wire Co — Starter Website\n\nVite + React + Tailwind one‑pager.\n\n## Run\n```bash\nnpm install\nnpm run dev\n```\n\n## Deploy (Vercel)\nBuild: `npm run build` → Output: `dist`.
